@@ -1,0 +1,15 @@
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/bin/Debug/net6.0/task_64_homework
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/bin/Debug/net6.0/task_64_homework.deps.json
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/bin/Debug/net6.0/task_64_homework.runtimeconfig.json
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/bin/Debug/net6.0/task_64_homework.dll
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/bin/Debug/net6.0/task_64_homework.pdb
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.csproj.AssemblyReference.cache
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.AssemblyInfoInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.AssemblyInfo.cs
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.csproj.CoreCompileInputs.cache
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.dll
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/refint/task_64_homework.dll
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.pdb
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/task_64_homework.genruntimeconfig.cache
+/Users/sergej/Desktop/Geekbrains/C#/homework seminar 9/task_64_homework/obj/Debug/net6.0/ref/task_64_homework.dll
